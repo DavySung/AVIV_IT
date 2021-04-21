@@ -4,7 +4,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <_PublishTargetUrl>D:\Diploma\IntermediateC#\Assessment\AST2\AVI-IT\AVI-IT\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\Diploma\IntermediateC#\Assessment\AST2\AVIV-IT\AVIV-IT\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.Development.json">
