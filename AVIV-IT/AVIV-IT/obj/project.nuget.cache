@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5rPLJ9uv7Ev1+9rMBdNipsF9zLFVUfC6DLyPLIP+tAdIpg2B1q48+vOQ7Qbl73SkjsX1q7OCWyVZEim1wEVwbg==",
+  "success": true,
+  "projectFilePath": "D:\\Diploma\\IntermediateC#\\Assessment\\AST2\\AVIV-IT\\AVIV-IT\\AVIV-IT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Davy\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
+    "C:\\Users\\Davy\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\Davy\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Diploma\IntermediateC#\Assessment\AST2\AVI-IT\AVI-IT\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>03/31/2021 08:50:54</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>03/31/2021 08:50:54</publishTime>
+    </File>
+    <File Include="AVIV-IT.deps.json">
+      <publishTime>04/18/2021 23:57:22</publishTime>
+    </File>
+    <File Include="AVIV-IT.dll">
+      <publishTime>04/18/2021 23:57:22</publishTime>
+    </File>
+    <File Include="AVIV-IT.exe">
+      <publishTime>04/18/2021 23:57:22</publishTime>
+    </File>
+    <File Include="AVIV-IT.pdb">
+      <publishTime>04/18/2021 23:57:22</publishTime>
+    </File>
+    <File Include="AVIV-IT.runtimeconfig.json">
+      <publishTime>04/12/2021 00:41:40</publishTime>
+    </File>
+    <File Include="AVIV-IT.Views.dll">
+      <publishTime>04/18/2021 23:57:22</publishTime>
+    </File>
+    <File Include="AVIV-IT.Views.pdb">
+      <publishTime>04/18/2021 23:57:22</publishTime>
+    </File>
+    <File Include="config.json">
+      <publishTime>04/18/2021 23:43:58</publishTime>
+    </File>
+    <File Include="libman.json">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/19/2021 00:05:24</publishTime>
+    </File>
+    <File Include="wwwroot/404.html">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-Bold-webfont.eot">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-Bold-webfont.svg">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-Bold-webfont.ttf">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-Bold-webfont.woff">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-BoldOblique-webfont.eot">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-BoldOblique-webfont.svg">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-BoldOblique-webfont.ttf">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-BoldOblique-webfont.woff">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-Oblique-webfont.eot">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-Oblique-webfont.svg">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-Oblique-webfont.ttf">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-Oblique-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-webfont.eot">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-webfont.svg">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-webfont.ttf">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSans-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-Bold-webfont.eot">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-Bold-webfont.svg">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-Bold-webfont.ttf">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-Bold-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-BoldOblique-webfont.eot">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-BoldOblique-webfont.svg">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-BoldOblique-webfont.ttf">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-BoldOblique-webfont.woff">
+      <publishTime>03/05/2021 09:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-Oblique-webfont.eot">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-Oblique-webfont.svg">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-Oblique-webfont.ttf">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-Oblique-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-webfont.eot">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-webfont.svg">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-webfont.ttf">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DejaVuSansCondensed-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Bold-webfont.eot">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Bold-webfont.svg">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Bold-webfont.ttf">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Bold-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-BoldItalic-webfont.eot">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-BoldItalic-webfont.svg">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-BoldItalic-webfont.ttf">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-BoldItalic-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Italic-webfont.eot">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Italic-webfont.svg">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Italic-webfont.ttf">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Italic-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Regular-webfont.eot">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Regular-webfont.svg">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Regular-webfont.ttf">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/DroidSerif-Regular-webfont.woff">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/font_licenses/DejaVu Fonts License.txt">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/css/fonts/font_licenses/Google Android License.txt">
+      <publishTime>03/05/2021 09:14:28</publishTime>
+    </File>
+    <File Include="wwwroot/error.html">
+      <publishTime>04/18/2021 23:40:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/alternative_pic.png">
+      <publishTime>03/05/2021 09:14:30</publishTime>
+    </File>
+    <File Include="wwwroot/images/Error .webp">
+      <publishTime>04/18/2021 23:39:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/logo.gif">
+      <publishTime>03/05/2021 09:14:30</publishTime>
+    </File>
+    <File Include="wwwroot/images/slider-img1.jpg">
+      <publishTime>04/01/2021 16:40:04</publishTime>
+    </File>
+    <File Include="wwwroot/images/slider-img2.jpg">
+      <publishTime>04/01/2021 16:39:58</publishTime>
+    </File>
+    <File Include="wwwroot/images/slider-img3.png">
+      <publishTime>04/01/2021 16:39:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.css">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.css">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.css.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.min.css">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.js">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.js.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.min.js">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/bootstrap-grid.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/bootstrap-reboot.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/bootstrap.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_alert.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_background-variant.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_badge.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_border-radius.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_box-shadow.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_breakpoints.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_buttons.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_caret.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_clearfix.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_deprecate.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_float.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_forms.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_gradients.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_grid-framework.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_grid.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_hover.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_image.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_list-group.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_lists.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_nav-divider.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_pagination.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_reset-text.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_resize.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_screen-reader.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_size.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_table-row.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_text-emphasis.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_text-hide.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_text-truncate.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_transition.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/mixins/_visibility.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_align.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_background.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_borders.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_clearfix.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_display.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_embed.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_flex.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_float.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_interactions.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_overflow.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_position.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_screenreaders.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_shadows.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_sizing.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_spacing.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_stretched-link.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_text.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/utilities/_visibility.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/vendor/_rfs.scss">
+      <publishTime>04/01/2021 01:13:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_alert.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_badge.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_breadcrumb.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_button-group.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_buttons.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_card.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_carousel.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_close.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_code.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_custom-forms.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_dropdown.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_forms.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_functions.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_grid.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_images.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_input-group.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_jumbotron.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_list-group.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_media.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_mixins.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_modal.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_nav.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_navbar.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_pagination.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_popover.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_print.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_progress.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_reboot.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_root.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_spinners.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_tables.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_toasts.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_tooltip.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_transitions.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_type.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_utilities.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/scss/_variables.scss">
+      <publishTime>04/01/2021 01:13:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
